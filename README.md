@@ -11,9 +11,9 @@ In order to run this app locally you must first clone the repository with:
 ```sh
 git clone https://github.com/TheCryptoChad/CryptoExchange.git
 ```
-You can then open the proyect folder in an IDE like [Eclipse](https://www.eclipse.org/ide/) and run it. 
+You can then open the project folder in an IDE like [Eclipse](https://www.eclipse.org/ide/) and run it. 
 
-Otherwise, if you're looking to run the app locally, you should move all the `.class`file from the `/bin` folder into the `/src` folder.
+Otherwise, if you're looking to run the app locally, you should move all the `.class` file from the `/bin` folder into the `/src` folder.
 
 Finally, navigate inside the directory and run the app with:
 ```sh
